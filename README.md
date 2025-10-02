@@ -1,29 +1,36 @@
 # 🍽️ Spring Food Management System
 
+[![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://openjdk.java.net/projects/jdk/17/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
+[![Maven](https://img.shields.io/badge/Maven-3.6+-red.svg)](https://maven.apache.org/)
+[![License](https://img.shields.io/badge/License-Educational-yellow.svg)](LICENSE)
+
 Enterprise-grade food inventory and nutrition management system built with Spring Boot for student residences.
 
 ## 🚀 Tech Stack
 
-- **Backend**: Java 17, Spring Boot 3.1.5
-- **Database**: MySQL 8.0 (Production), H2 (Testing)
-- **Build Tool**: Maven
-- **Testing**: JUnit 5, Spring Boot Test
-- **Architecture**: MVC with Repository Pattern
+-   **Backend**: Java 17, Spring Boot 3.1.5
+-   **Database**: MySQL 8.0 (Production), H2 (Testing)
+-   **Build Tool**: Maven
+-   **Testing**: JUnit 5, Spring Boot Test
+-   **Architecture**: MVC with Repository Pattern
 
 ## 🏗️ Features
 
-- **Role-based Inventory Control**: Residence-specific access management
-- **Atomic Transactions**: Consistent meal preparation tracking
-- **Multi-profile Configuration**: Separate development and testing environments
-- **Nutritional Tracking**: Comprehensive meal and ingredient monitoring
-- **TDD Approach**: Test-driven development with Spanish nomenclature
+-   **Role-based Inventory Control**: Residence-specific access management
+-   **Atomic Transactions**: Consistent meal preparation tracking
+-   **Multi-profile Configuration**: Separate development and testing environments
+-   **Nutritional Tracking**: Comprehensive meal and ingredient monitoring
+-   **TDD Approach**: Test-driven development with Spanish nomenclature
 
 ## 🛠️ Quick Start
 
 ### Prerequisites
-- Java 17+
-- Maven 3.6+
-- MySQL 8.0+
+
+-   Java 17+
+-   Maven 3.6+
+-   MySQL 8.0+
 
 ### Running the Application
 
@@ -40,19 +47,20 @@ cd spring-food-management-system/backend
 ```
 
 ### Health Check
+
 ```bash
 curl http://localhost:8080/actuator/health
 ```
 
 ## 📊 Project Status
 
-- ✅ Spring Boot foundation
-- ✅ Database connectivity  
-- ✅ Security configuration
-- ✅ Testing framework
-- ⏳ JPA entities (in progress)
-- ⏳ REST APIs (planned)
-- ⏳ Frontend integration (planned)
+-   ✅ Spring Boot foundation
+-   ✅ Database connectivity
+-   ✅ Security configuration
+-   ✅ Testing framework
+-   ⏳ JPA entities (in progress)
+-   ⏳ REST APIs (planned)
+-   ⏳ Frontend integration (planned)
 
 ## 🏛️ Architecture
 
@@ -86,10 +94,11 @@ The project follows TDD (Test-Driven Development) with Spanish naming convention
 ## 🤝 Contributing
 
 This project follows professional development practices:
-- TDD methodology with `dado_cuando_entonces` naming
-- Atomic commits with descriptive messages
-- Separate profiles for development and testing
-- Comprehensive test coverage
+
+-   TDD methodology with `dado_cuando_entonces` naming
+-   Atomic commits with descriptive messages
+-   Separate profiles for development and testing
+-   Comprehensive test coverage
 
 ## 📝 License
 

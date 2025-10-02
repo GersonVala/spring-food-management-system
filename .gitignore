@@ -84,6 +84,7 @@ context/
 agents/
 *.md
 !README.md
+!CONTRIBUTING.md
 !.github/
 
 # Archivos de setup y desarrollo temporal
