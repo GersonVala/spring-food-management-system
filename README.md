@@ -4,7 +4,6 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-red.svg)](https://maven.apache.org/)
-[![License](https://img.shields.io/badge/License-Educational-yellow.svg)](LICENSE)
 
 Enterprise-grade food inventory and nutrition management system built with Spring Boot for student residences.
 
