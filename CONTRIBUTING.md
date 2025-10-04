@@ -139,7 +139,8 @@ public class BatchService {
 
 ## 📞 Contacto
 
-Para preguntas específicas del proyecto, crear un issue o contactar al maintainer.
+Para preguntas específicas del proyecto, crear un issue o contactarme.
+gersonvalashek@gmail.com
 
 ---
 
